@@ -1,0 +1,6 @@
+framework module Pods_NimbleCocoaPodsExample {
+  umbrella header "Pods-NimbleCocoaPodsExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

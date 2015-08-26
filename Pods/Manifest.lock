@@ -1,0 +1,25 @@
+PODS:
+  - Nimble (2.0.0-rc.2)
+  - Quick (0.5.1)
+
+DEPENDENCIES:
+  - Nimble (from `../Nimble`)
+  - Quick (from `https://github.com/Quick/Quick`, tag `v0.5.1`)
+
+EXTERNAL SOURCES:
+  Nimble:
+    :path: "../Nimble"
+  Quick:
+    :git: https://github.com/Quick/Quick
+    :tag: v0.5.1
+
+CHECKOUT OPTIONS:
+  Quick:
+    :git: https://github.com/Quick/Quick
+    :tag: v0.5.1
+
+SPEC CHECKSUMS:
+  Nimble: f1bf175592fa2e6d67c7f2fa3103ca6233a68de8
+  Quick: 7426537a99e75076d6930c5b6da58006e4a9f38a
+
+COCOAPODS: 0.38.2
